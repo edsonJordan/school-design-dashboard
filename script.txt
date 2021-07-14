@@ -1,3 +1,0 @@
-comando para compilar tailwind
-npx tailwindcss -i ./src/style.css -o ./dist/tailwind.css
-https://dribbble.com/shots/15976675/attachments/7813263?mode=media
